@@ -7,16 +7,16 @@
 To build a real-time voice agent in English Language who is checking with a patient, regarding the post surgery followup.   Patient had Ankle surgery after a fall from a horse while playing Polo and is enrolled into a home program for recovery.
 
 - Agent has to perform the following checkin related questions (a to e questions) in sequential manner:
-  a. Introduce yourself about why you called the patient.
-  b. Ask about how the patient is feeling after surgery
-  c. Assess the pain score (1-10)
-  d. Guide the patient to work on the following exercises one by one (to have faster recovery):
-   - Ankle Mobility Stretch
-   - Toe Tapping
-   - Calf Raises.
-   - After explaining instructions to do the above exercises, ask: “Would you like to take a moment to go through the steps for [exercise name] now? and tell
+  - a. Introduce yourself about why you called the patient.
+  - b. Ask about how the patient is feeling after surgery
+  - c. Assess the pain score (1-10)
+  - d. Guide the patient to work on the following exercises one by one (to have faster recovery):
+     - Ankle Mobility Stretch
+     - Toe Tapping
+     -  Calf Raises.
+     - After explaining instructions to do the above exercises, ask: “Would you like to take a moment to go through the steps for [exercise name] now? and tell
 that you can hold/pause the call upto one minute.
-  e. Call closing
+ - e. Call closing
 
 ## Voice Agent Development:
 
