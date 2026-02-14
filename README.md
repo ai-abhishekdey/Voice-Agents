@@ -16,7 +16,7 @@ To build a real-time voice agent in English Language who is checking with a pati
      -  Calf Raises.
      - After explaining instructions to do the above exercises, ask: “Would you like to take a moment to go through the steps for [exercise name] now? and tell
 that you can hold/pause the call upto one minute.
- - e. Call closing
+  - e. Call closing
 
 ## Voice Agent Development:
 
